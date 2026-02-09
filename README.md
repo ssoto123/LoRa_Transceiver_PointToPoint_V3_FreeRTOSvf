@@ -1,6 +1,5 @@
 # Sistema de Comunicación LoRa P2P con FreeRTOS (Dual Core)
-**Maestría en Internet de las Cosas (IoT)** **Asignatura:** Sistemas de Sensores  
-**Autor:** MGTI. Saul Isai Soto Ortiz
+ **Autor:** MGTI. Saul Isai Soto Ortiz
 
 ## 📋 Descripción del Proyecto
 Este proyecto implementa un protocolo de comunicación **Punto a Punto (P2P)** utilizando modulación LoRa sobre un sistema operativo en tiempo real (**FreeRTOS**). 
